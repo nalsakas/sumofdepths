@@ -2,7 +2,8 @@
 Calculate sum of depths of a given binary tree. Suppose a deepest node of a binary tree is at level 4, staring level is 0. Algorithm should return 0 + 1 + 2 + 3 + 4 = 10.
 
 Input:
-Following binary tree is given. 
+Following binary tree is given.
+
         1           -> level 0
      /     \
     2       3       -> level 1  
